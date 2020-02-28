@@ -16,7 +16,7 @@ namespace STHG
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AppMain());
+            Application.Run(new Home());
         }
     }
 }
